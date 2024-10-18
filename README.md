@@ -3,12 +3,12 @@
 <!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=angelodotnet&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
 </p>-->
-## :wave: Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+## 👋 Hey there, I'm Angelo ! ![](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-### HacktoberFest 2024
+### 🪒 HacktoberFest 2024
 [![An image of @angeloit87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/angeloit87)](https://holopin.io/@angeloit87)
 
-### :bar_chart: Statistics
+### 📊 Statistics
 <table>
   <tr>
     <td valign="top" width="50%">
